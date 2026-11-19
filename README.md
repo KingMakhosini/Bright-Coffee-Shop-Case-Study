@@ -1,4 +1,4 @@
-<img width="5206" height="780" alt="image" src="https://github.com/user-attachments/assets/5549ca30-607b-40b6-8860-b4f1a6e15bf0" /><img width="2964" height="403" alt="image" src="https://github.com/user-attachments/assets/2069a6ac-a10c-4f56-bb96-baa823d1305f" /><img width="7975" height="123" alt="image" src="https://github.com/user-attachments/assets/11776902-daed-482c-8f97-6841d5e9e194" /># Bright-Coffee-Shop-Case-Study
+# Bright-Coffee-Shop-Case-Study
 ---
 ## Overview
 The New CEO of Bright Coffee Shop want to know the performance of the business. This repo contains detailed business analysis for the coffee shop with 3 stores over period of January 2023 to June 2023. The key pointsis to understand revenue trends, customer behavious, sales strong peak, sales weak peak, best performing products and products that need more attention, and identify strategic models to upsell sales
@@ -41,7 +41,7 @@ Hell’s Kitchen leads with coffee beans at 43.22%.
 Hell’s Kitchen leads and followed by Low Manhattan  on Packaged Chocolate.
 
 
-##Recommendation
+## Recommendation
 Recommendations to the CEO
 1. Increase customer spending: Introduce coffee-and-bakery combos and upselling to increase the average transaction value.
 2. Priorities best-selling products: Maintain sufficient stock of coffee, tea and bakery products, which generate the majority of revenue.
